@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "82629735ecd77354",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e0007475e8dc444",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "src/Pasted image 20210612141745.png"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "183cd84974c2cdda",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cd9006efcc366df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6121a84bdbd074b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8bc1fe25a748993d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "db35078fac3df5ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7a5c264d5ba1ae0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7429416dad8ae5e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "src/Pasted image 20210612141745.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5e0007475e8dc444",
+  "lastOpenFiles": [
+    "Pasted image 20210612141745.png",
+    "Pasted image 20210612141756.png",
+    "PPKOMP2020/Team_Score/Untitled.md",
+    "PPKOMP2020/T-Shirt_Printing/Untitled.md",
+    "PPKOMP2020/Sweets/Untitled.md",
+    "Pasted image 20210612141657.png",
+    "PPKOMP2020/Sequence_Number/Untitled.md",
+    "Untitled.md"
+  ]
+}
