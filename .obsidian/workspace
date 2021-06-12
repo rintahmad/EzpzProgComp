@@ -7,9 +7,10 @@
         "id": "5e0007475e8dc444",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "src/Pasted image 20210612141745.png"
+            "file": "Random_Questions/Horsemans_Travel/README.md",
+            "mode": "preview"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/Pasted image 20210612141745.png",
+                "file": "Random_Questions/Horsemans_Travel/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +88,7 @@
   },
   "active": "5e0007475e8dc444",
   "lastOpenFiles": [
+    "Random_Questions/Horsemans_Travel/README.md",
     "Pasted image 20210612141745.png",
     "Pasted image 20210612141756.png",
     "PPKOMP2020/Team_Score/Untitled.md",
